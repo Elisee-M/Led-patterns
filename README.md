@@ -90,6 +90,20 @@ A simple and fun Arduino project that simulates a traffic light system and inclu
 
 ---
 
+---
+
+## 🖼️ Circuit Diagram
+
+![Circuit Diagram](circuit.png)
+
+---
+
+## 🧾 Schematic
+
+![Schematic](schematic.png)
+
+---
+
 ## 🚀 Future Improvements
 
 * Add buzzer for sound alerts 🔊
